@@ -33,3 +33,7 @@ nav a{
 	color: #171717;
 	opacity: 100%;
 }
+section{
+	max-width: 1195px;
+	margin: auto;
+}
