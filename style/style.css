@@ -20,5 +20,7 @@ ul{
 	list-style-type: none;
 }
 .article-image{
+	width: 1195px;
+	height: 362px;
 	opacity: 100%;
 }
