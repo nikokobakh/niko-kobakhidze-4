@@ -1,11 +1,16 @@
 header{
 	background-color: #0020F4;
 }
+nav a{
+	color: #FFFFFF;
+}
 .white-text{
+	size: 16px;
 	color: #FFFFFF;
 	opacity: 100%;
 }
 .black-text{
+	size: 16px;
 	color: #171717;
 	opacity: 100%;
 }
